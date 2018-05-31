@@ -1,0 +1,12 @@
+[submodule "docker_frontend_ex"]
+	path = docker_frontend_ex
+	url = https://github.com/uberbrodt/docker_frontend_ex.git
+[submodule "docker_service_a_ex"]
+	path = docker_service_a_ex
+	url = https://github.com/uberbrodt/docker_service_a_ex.git
+[submodule "docker_service_b_ex"]
+	path = docker_service_b_ex
+	url = https://github.com/uberbrodt/docker_service_b_ex.git
+[submodule "docker_service_c_ex"]
+	path = docker_service_c_ex
+	url = https://github.com/uberbrodt/docker_service_c_ex.git
